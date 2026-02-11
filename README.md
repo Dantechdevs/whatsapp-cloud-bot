@@ -111,5 +111,3 @@ Ignore ngrok.exe → Remove binary from repository
 License
 MIT License © 2026 Dantech Developers
 
-yaml
-Copy code
